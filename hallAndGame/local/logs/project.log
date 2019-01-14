@@ -1,56 +1,56 @@
-2019-01-14T02:34:27.952Z - normal: Load ~/.CocosCreator/settings.json
-2019-01-14T02:34:27.958Z - normal: checking language setting...
-2019-01-14T02:34:27.959Z - normal: Language: zh
-2019-01-14T02:34:29.028Z - success: protocol editor-framework registered
-2019-01-14T02:34:29.029Z - success: protocol app registered
-2019-01-14T02:34:29.029Z - success: protocol theme registered
-2019-01-14T02:34:29.029Z - success: protocol packages registered
-2019-01-14T02:34:29.030Z - success: protocol unpack registerred
-2019-01-14T02:34:29.030Z - success: protocol disable-commonjs registerred
-2019-01-14T02:34:29.137Z - normal: connected!
-2019-01-14T02:34:29.140Z - normal: Check project /Users/gaojian/hallAndGame
-2019-01-14T02:34:29.142Z - normal: Initializing Cocos2d
-2019-01-14T02:34:29.371Z - normal: Initializing Asset Database
-2019-01-14T02:34:29.412Z - success: protocol uuid registerred
-2019-01-14T02:34:29.412Z - success: protocol db registerred
-2019-01-14T02:34:29.412Z - success: protocol thumbnail registerred
-2019-01-14T02:34:29.412Z - normal: Loading editor/builtin packages
-2019-01-14T02:34:29.448Z - success: anysdk loaded
-2019-01-14T02:34:29.583Z - success: assets loaded
-2019-01-14T02:34:29.587Z - success: builder loaded
-2019-01-14T02:34:29.589Z - success: cocos-analytics loaded
-2019-01-14T02:34:29.594Z - success: console loaded
-2019-01-14T02:34:29.638Z - success: fb-instant-games loaded
-2019-01-14T02:34:29.643Z - success: hierarchy loaded
-2019-01-14T02:34:29.648Z - success: inspector loaded
-2019-01-14T02:34:29.649Z - success: keystore loaded
-2019-01-14T02:34:29.654Z - success: node-library loaded
-2019-01-14T02:34:29.657Z - success: package-asset loaded
-2019-01-14T02:34:29.658Z - success: preferences loaded
-2019-01-14T02:34:29.662Z - success: project-exporter loaded
-2019-01-14T02:34:29.679Z - success: project-importer loaded
-2019-01-14T02:34:29.682Z - success: project-settings loaded
-2019-01-14T02:34:29.688Z - success: ui-kit loaded
-2019-01-14T02:34:29.693Z - success: ui-grid loaded
-2019-01-14T02:34:29.698Z - success: scene loaded
-2019-01-14T02:34:29.700Z - success: sprite-editor loaded
-2019-01-14T02:34:29.704Z - success: store loaded
-2019-01-14T02:34:29.713Z - success: timeline loaded
-2019-01-14T02:34:29.713Z - normal: Loading builtin packages
-2019-01-14T02:34:29.718Z - success: asset-db-debugger loaded
-2019-01-14T02:34:29.720Z - success: color-picker loaded
-2019-01-14T02:34:29.726Z - success: package-manager loaded
-2019-01-14T02:34:29.728Z - success: qqplay-adapter loaded
-2019-01-14T02:34:29.740Z - success: sdkbox loaded
-2019-01-14T02:34:29.745Z - success: tester loaded
-2019-01-14T02:34:29.751Z - success: ui-kit-preview-extra loaded
-2019-01-14T02:34:29.758Z - success: ui-kit-preview loaded
-2019-01-14T02:34:29.763Z - success: ui-tree loaded
-2019-01-14T02:34:29.765Z - success: weapp-adapter loaded
-2019-01-14T02:34:31.011Z - normal: Initializing project /Users/gaojian/hallAndGame
-2019-01-14T02:34:31.013Z - normal: Loading packages
-2019-01-14T02:34:31.029Z - success: binary-creator loaded
-2019-01-14T02:34:31.029Z - normal: Watching packages
-2019-01-14T02:34:31.188Z - normal: Run Application
-2019-01-14T02:34:32.362Z - success: preview server running at http://localhost:7458
-2019-01-14T02:34:38.301Z - normal: 1.9.3
+2019-01-14T03:14:39.887Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-14T03:14:39.890Z - normal: checking language setting...
+2019-01-14T03:14:39.890Z - normal: Language: zh
+2019-01-14T03:14:40.672Z - success: protocol editor-framework registered
+2019-01-14T03:14:40.672Z - success: protocol app registered
+2019-01-14T03:14:40.672Z - success: protocol theme registered
+2019-01-14T03:14:40.672Z - success: protocol packages registered
+2019-01-14T03:14:40.673Z - success: protocol unpack registerred
+2019-01-14T03:14:40.673Z - success: protocol disable-commonjs registerred
+2019-01-14T03:14:40.812Z - normal: connected!
+2019-01-14T03:14:40.816Z - normal: Check project /Users/gaojian/Documents/WorkSpace/git/hallAndGame
+2019-01-14T03:14:40.818Z - normal: Initializing Cocos2d
+2019-01-14T03:14:41.023Z - normal: Initializing Asset Database
+2019-01-14T03:14:41.065Z - success: protocol uuid registerred
+2019-01-14T03:14:41.065Z - success: protocol db registerred
+2019-01-14T03:14:41.065Z - success: protocol thumbnail registerred
+2019-01-14T03:14:41.065Z - normal: Loading editor/builtin packages
+2019-01-14T03:14:41.086Z - success: anysdk loaded
+2019-01-14T03:14:41.212Z - success: assets loaded
+2019-01-14T03:14:41.216Z - success: builder loaded
+2019-01-14T03:14:41.218Z - success: cocos-analytics loaded
+2019-01-14T03:14:41.223Z - success: console loaded
+2019-01-14T03:14:41.263Z - success: fb-instant-games loaded
+2019-01-14T03:14:41.268Z - success: hierarchy loaded
+2019-01-14T03:14:41.273Z - success: inspector loaded
+2019-01-14T03:14:41.274Z - success: keystore loaded
+2019-01-14T03:14:41.279Z - success: node-library loaded
+2019-01-14T03:14:41.281Z - success: package-asset loaded
+2019-01-14T03:14:41.283Z - success: preferences loaded
+2019-01-14T03:14:41.287Z - success: project-exporter loaded
+2019-01-14T03:14:41.304Z - success: project-importer loaded
+2019-01-14T03:14:41.307Z - success: project-settings loaded
+2019-01-14T03:14:41.311Z - success: ui-kit loaded
+2019-01-14T03:14:41.316Z - success: ui-grid loaded
+2019-01-14T03:14:41.321Z - success: scene loaded
+2019-01-14T03:14:41.322Z - success: sprite-editor loaded
+2019-01-14T03:14:41.326Z - success: store loaded
+2019-01-14T03:14:41.333Z - success: timeline loaded
+2019-01-14T03:14:41.333Z - normal: Loading builtin packages
+2019-01-14T03:14:41.337Z - success: asset-db-debugger loaded
+2019-01-14T03:14:41.338Z - success: color-picker loaded
+2019-01-14T03:14:41.343Z - success: package-manager loaded
+2019-01-14T03:14:41.344Z - success: qqplay-adapter loaded
+2019-01-14T03:14:41.351Z - success: sdkbox loaded
+2019-01-14T03:14:41.355Z - success: tester loaded
+2019-01-14T03:14:41.358Z - success: ui-kit-preview-extra loaded
+2019-01-14T03:14:41.363Z - success: ui-kit-preview loaded
+2019-01-14T03:14:41.367Z - success: ui-tree loaded
+2019-01-14T03:14:41.368Z - success: weapp-adapter loaded
+2019-01-14T03:14:42.469Z - normal: Initializing project /Users/gaojian/Documents/WorkSpace/git/hallAndGame
+2019-01-14T03:14:42.473Z - normal: Loading packages
+2019-01-14T03:14:42.486Z - success: binary-creator loaded
+2019-01-14T03:14:42.486Z - normal: Watching packages
+2019-01-14T03:14:42.622Z - normal: Run Application
+2019-01-14T03:14:43.335Z - success: preview server running at http://localhost:7458
+2019-01-14T03:14:48.786Z - normal: 1.9.3
