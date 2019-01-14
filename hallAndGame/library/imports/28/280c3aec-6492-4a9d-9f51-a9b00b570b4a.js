@@ -1,6 +1,6 @@
 "use strict";
-cc._RF.push(module, '280c3rsZJJKnZ9RqbALVwtK', 'HelloWorld');
-// Script/HelloWorld.js
+cc._RF.push(module, '280c3rsZJJKnZ9RqbALVwtK', 'hallScene');
+// Choose/Script/hallScene.js
 
 'use strict';
 

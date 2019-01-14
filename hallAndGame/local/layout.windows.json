@@ -39,28 +39,12 @@
           {
             "children": [
               {
+                "active": 0,
                 "children": [
-                  {
-                    "active": 0,
-                    "children": [
-                      "scene"
-                    ],
-                    "height": 326,
-                    "type": "panel",
-                    "width": 553
-                  },
-                  {
-                    "active": 0,
-                    "children": [
-                      "node-library"
-                    ],
-                    "height": 326,
-                    "type": "panel",
-                    "width": 204
-                  }
+                  "scene"
                 ],
                 "height": 326,
-                "type": "dock-h",
+                "type": "panel",
                 "width": 760
               },
               {
