@@ -22,7 +22,18 @@ cc.Class({
     },
 
     // called every frame
-    update: function update(dt) {}
+    update: function update(dt) {},
+
+    buttonClick: function buttonClick(event, customEventData) {
+        switch (customEventData) {
+            case 'game1':
+                // cc.director.loadScene('gameScene');
+                break;
+            case 'game2':
+
+                break;
+        }
+    }
 });
 
 cc._RF.pop();

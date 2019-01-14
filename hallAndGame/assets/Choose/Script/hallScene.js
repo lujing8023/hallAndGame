@@ -19,4 +19,15 @@ cc.Class({
     update: function (dt) {
 
     },
+
+    buttonClick:function(event , customEventData){
+        switch(customEventData){
+            case 'game1':
+                // cc.director.loadScene('gameScene');
+                break;
+            case 'game2':
+
+                break;
+        }
+    }
 });
