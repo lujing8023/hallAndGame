@@ -75,7 +75,6 @@
         "type": "dock-h"
       },
       "panels": [
-        "node-library",
         "console",
         "timeline",
         "inspector",
